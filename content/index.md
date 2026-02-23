@@ -16,17 +16,18 @@ Just in case I am going into that loop of perfectionism again when writing, I sh
 ---
 
 Latest writing:
-- [[First month of school]] - Feb 2025
-- [[Using stories to impart lessons]] - Jan 2025
+- [[AdsGPT]] - Feb 2026
 
 Archive:
-- [[The problem with non-profits]] - Oct 29, 2024
-- [[Storytelling workshop]] - Jun 14, 2024
-- [[The lack of Malay content]] - April 3, 2024
-- [[Tik Tok format for Malay content]] - April 1, 2024
-- [[Burnout and value mismatch]] - June 20, 2023
-- [[Bend too far, you're already broken]] - April 5, 2023
-- [[Having the right teammate]] - March 8, 2023
-- [[Nurturing leadership]] - March 8, 2023
-- [[Malay content landscape in 2023]] - Feb 15, 2023
-- [[Leadership archetypes]] - July 21, 2022
+- [[First month of school]] - Feb 2025
+- [[Using stories to impart lessons]] - Jan 2025
+- [[The problem with non-profits]] - Oct 2024
+- [[Storytelling workshop]] - Jun 2024
+- [[The lack of Malay content]] - April 2024
+- [[Tik Tok format for Malay content]] - April 2024
+- [[Burnout and value mismatch]] - June 2023
+- [[Bend too far, you're already broken]] - April 2023
+- [[Having the right teammate]] - March 2023
+- [[Nurturing leadership]] - March 2023
+- [[Malay content landscape in 2023]] - Feb 2023
+- [[Leadership archetypes]] - July 21 2022
