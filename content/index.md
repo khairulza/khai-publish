@@ -16,6 +16,7 @@ Just in case I am going into that loop of perfectionism again when writing, I sh
 ---
 
 Latest writing:
+- [[SEO for AI]] - Feb 2026
 - [[AdsGPT]] - Feb 2026
 
 Archive:
