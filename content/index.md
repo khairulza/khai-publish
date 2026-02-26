@@ -16,8 +16,9 @@ Just in case I am going into that loop of perfectionism again when writing, I sh
 ---
 
 Latest writing:
-- [[SEO for AI]] - Feb 2026
-- [[AdsGPT]] - Feb 2026
+- [[5 questions to break through your content marketing plateau]] - Feb 2026
+- [[AI optimization for SEO writers]] - Feb 2026
+- [[Ads are coming to ChatGPT, would others follow suit?]] - Feb 2026
 
 Archive:
 - [[First month of school]] - Feb 2025

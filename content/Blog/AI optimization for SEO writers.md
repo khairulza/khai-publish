@@ -23,3 +23,7 @@ There's one big difference, though. On search engines, we type keywords. With ch
 To re-iterate my point about unique human content, I have a theory: as much as gen-AI produces slop by default (regression towards the mean), they still crave novelty (arguably before cannibalising it into the training data lol). Because OUR BRAINS crave novelty. This has been proven recently when companies started to look for human storytellers again — the market corrected itself.
 
 Ok itu je, selamat berbuka jangan berduka.
+
+
+> [!NOTE] Originally posted on:
+> 25 Feb 2026
