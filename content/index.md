@@ -18,9 +18,10 @@ Just in case I am going into that loop of perfectionism again when writing, I sh
 Latest writing:
 - [[5 questions to break through your content marketing plateau]] - Feb 2026
 - [[AI optimization for SEO writers]] - Feb 2026
-- [[Ads are coming to ChatGPT, would others follow suit?]] - Feb 2026
+- [[Ads are coming to ChatGPT, others WILL follow suit]] - Feb 2026
 
 Archive:
+- [[Cultural contexts in Malay content]] - Jul 2025
 - [[First month of school]] - Feb 2025
 - [[Using stories to impart lessons]] - Jan 2025
 - [[The problem with non-profits]] - Oct 2024
